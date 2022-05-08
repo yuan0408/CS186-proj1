@@ -12,4 +12,4 @@ https://cs186berkeley.net/
 
 实验结果：
 
-![image-20220508183507650](/home/yuan/labs/CS186/sp22-proj1/img/image-20220508183507650.png)
+![image-20220508183507650](./img/image-20220508183507650.png)
