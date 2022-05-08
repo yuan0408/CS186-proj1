@@ -2,14 +2,12 @@
 
 原始项目代码：
 
-[]: https://github.com/berkeley-cs186/sp22-proj1	"proj-1"
-
+https://github.com/berkeley-cs186/sp22-proj1
 
 
 课程网站：
 
-[]: https://cs186berkeley.net/	"CS186"
-
+https://cs186berkeley.net/
 
 
 实验结果：
